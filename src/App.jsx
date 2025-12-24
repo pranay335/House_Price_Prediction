@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-      <h1>HOUSE--P PREDICTION</h1>
+      <h1>HOUSE__PRICE_PREDICTION</h1>
 
       <form onSubmit={handlePredict}>
         <label>AREA</label>
